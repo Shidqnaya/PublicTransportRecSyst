@@ -12,12 +12,14 @@ The system features five primary functions as follows:
 Each function is designed to enhance the user experience by ensuring that they have access to accurate, timely, and comprehensive information to facilitate their travel using public transportation.
 
 # How To Run
-Open and run the file with '.cpp' extension.
+Open and run the file with '.cpp' extension in your code editor program.
 
 # Notes
 The system is designed to read from and write to existing text files.
 This capability allows the system to maintain a dynamic and up-to-date database of public transport information.
+
 By reading from text files, the system can retrieve current route details, schedules, and availability data.
 Writing to text files enables the system to update this information as needed, ensuring that users always have access to the latest data.
+
 Additionally, this functionality supports data management tasks such as adding new transport options, searching for specific routes or services, and deleting outdated or irrelevant information.
 By leveraging text files for data storage, the system ensures flexibility and ease of data handling, making it a robust tool for efficient public transportation management.
